@@ -62,3 +62,11 @@ https://servertvhub.site/jio1290/app/live.php?id=155|User-Agent=Mozilla/5.0 (Lin
 #EXTINF:-1 tvg-id="156" tvg-name="Star_Gold_HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Movies", Star_Gold_HD
 https://servertvhub.site/jio1290/app/live.php?id=156|User-Agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #
+
+#EXTINF:-1 tvg-id="154" tvg-name="Sony SAB SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony SAB SD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ziotvplus.yowaimo.in/license/154/
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (StreamFlex;Android 16) JioTvMobile
+#EXTHTTP:{"cookie":"__hdnea__=st=1785670907~exp=1785692507~acl=/*~hmac=89700c33256f5aeac2cc81638fa9fa85bf95783675577028ff4fea45d5363877"}
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Sony_SAB_MOB/WDVLive/index.mpd
