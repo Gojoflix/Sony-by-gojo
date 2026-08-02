@@ -43,3 +43,8 @@ https://steep-star-8d88.broshoeb9.workers.dev/proxy/sliv/master.php?id=sony_pix_
 https://steep-star-8d88.broshoeb9.workers.dev/proxy/sliv/master.php?id=sony_marathi.m3u8
 #EXTINF:-1 group-title="Sony LIV" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png",Sony Aath
 https://steep-star-8d88.broshoeb9.workers.dev/proxy/sliv/master.php?id=sony_aath.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Entertainment" tvg-id="291",SET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-header=Cookie: __hdnea__=st=1785641112~exp=1785662712~acl=/*~hmac=5b8ead556391d981bf7952f6fa3fde47ae1b0f272d333d30823f2631bd56adf7
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_SD_MOB/WDVLive/index.mpd
